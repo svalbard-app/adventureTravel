@@ -3,6 +3,17 @@ Do you have any issues regarding the **Adventure Travel** project? Leave your re
 
 ## Changelog
 
+### 1.0.5 (2020-09-21)
+
+#### What's new
+
+🌟 Support for dynamic database search of experiences
+* Included [Geohash coordinates](https://www.movable-type.co.uk/scripts/geohash.html) for searching nearby places
+
+🌟 Integration with Cloud Firestore (Firebase database)
+* Structure to store Experiences, Categories and Popular Places
+* Sample data to populate the database
+
 ### 1.0.4 (2020-08-01)
 
 #### What's new
