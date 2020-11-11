@@ -7,7 +7,7 @@ Do you have any issues regarding the **Adventure Travel** project? Leave your re
 
 #### What's new
 
-🌟 Support for Apple-Sign
+🌟 Support for Apple Sign-in
 * Sign up/Log in with your Apple Account
 
 🌟 Updated to React Native 0.63
