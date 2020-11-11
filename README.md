@@ -3,6 +3,16 @@ Do you have any issues regarding the **Adventure Travel** project? Leave your re
 
 ## Changelog
 
+### 1.0.6 (2020-11-11)
+
+#### What's new
+
+🌟 Support for Apple-Sign
+* Sign up/Log in with your Apple Account
+
+🌟 Updated to React Native 0.63
+* React Native 0.63 will give you access to more APIs, views, developer tools and other goodies.
+
 ### 1.0.5 (2020-09-21)
 
 #### What's new
