@@ -3,6 +3,10 @@ Do you have any issues regarding the **Adventure Travel** project? Leave your re
 
 ## Changelog
 
+### 1.0.9 (2021-01-05)
+
+Updated the firebase packages to 10.4.0 version
+
 ### 1.0.8 (2020-12-10)
 
 In this version we have made a code refactoring for data management in Firestore.
