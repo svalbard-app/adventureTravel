@@ -3,6 +3,11 @@ Do you have any issues regarding the **Adventure Travel** project? Leave your re
 
 ## Changelog
 
+
+### 1.1.0 (2021-08-16)
+
+In this version we have completely redesigned the User Interface and added improvements to the User Experience.
+
 ### 1.0.9 (2021-01-05)
 
 Updated the firebase packages to 10.4.0 version
