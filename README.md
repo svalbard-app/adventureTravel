@@ -3,6 +3,12 @@ Do you have any issues regarding the **Adventure Travel** project? Leave your re
 
 ## Changelog
 
+### 1.1.1 (2021-11-13)
+
+🌟 In this version we have added the blur effect for image loading.
+
+🌟 We have divided the project in two: one version with functional programming (hooks) and the other with a class approach.
+
 
 ### 1.1.0 (2021-08-16)
 
