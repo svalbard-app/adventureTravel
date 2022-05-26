@@ -3,6 +3,16 @@ Do you have any issues regarding the **Adventure Travel** project? Leave your re
 
 ## Changelog
 
+### 1.1.2 (2022-05-23)
+
+As part of the continuous update, in this version we have added third party library critical updates:
+react-native-keyboard-aware-scroll-view,
+@react-native-firebase/app,
+@react-native-firebase/auth,
+@react-native-firebase/database,
+@react-native-firebase/firestore,
+@react-native-firebase/messaging
+
 ### 1.1.1 (2021-11-13)
 
 🌟 In this version we have added the blur effect for image loading.
